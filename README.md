@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me stewiegriffin3108ia@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: am new here
 
 <!---

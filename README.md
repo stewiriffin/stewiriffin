@@ -1,27 +1,70 @@
-- 👋 Hi, I’m @stewiriffin
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me stewiegriffin3108ia@gmail.com
-- ⚡ Fun fact: am new here
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=500&color=059669&center=true&vCenter=true&width=435&lines=Ian+Gicheha+Mbae;Python+Developer;Backend+Engineer;API+Architect" alt="Typing SVG" />
+</div>
 
-- 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ian-mbae-0a462b312) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/coldgrapefruit9325) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@stewie750) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Stewiegriffin3108ia@gmail.com) 
+<p align="center">
+  <strong>Building scalable backend systems with Python, Django &amp; FastAPI</strong>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=stewiriffin&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=stewiriffin&theme=material-palenight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stewiriffin&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://ianmbae.dev"><img src="https://img.shields.io/badge/Portfolio-ianmbae.dev-059669?style=flat-square" /></a>
+  <a href="mailto:mbaegicheha@gmail.com"><img src="https://img.shields.io/badge/Email-mbaegicheha@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ianmbae"><img src="https://img.shields.io/badge/LinkedIn-ianmbae-0A66C2?style=flat-square&logo=linkedin" /></a>
+  <a href="https://github.com/stewiriffin"><img src="https://img.shields.io/github/followers/stewiriffin?label=Followers&style=flat-square&color=6366f1" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=stewiriffin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠 Tech Stack
 
-<!---
-stewiriffin/stewiriffin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Languages**  
+Python · TypeScript · JavaScript · Dart · SQL · Bash
+
+**Backend**  
+Django · FastAPI · Flask · Node.js · Express · REST APIs · GraphQL · Celery · RabbitMQ
+
+**Databases**  
+PostgreSQL · MySQL · SQLite · MongoDB · Redis · Elasticsearch
+
+**DevOps & Cloud**  
+Docker · AWS (EC2, S3, Lambda) · Nginx · GitHub Actions · Linux
+
+**Frontend**  
+React · Next.js · Tailwind CSS · Bootstrap · HTML/CSS
+
+---
+
+## 📱 Featured Projects
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| **QR Code Scanner** | Flutter-based QR & barcode scanner on Play Store → | [Play Store](https://play.google.com/store/apps/details?id=com.dr_rank.qrcodescanner&hl=en_US) |
+| **Quick PDF** | Lightweight Android PDF viewer → | [Play Store](https://play.google.com/store/apps/details?id=com.rank.quickpdf&hl=en_US) |
+| **WhatsApp Automation** | Python automation suite for WhatsApp Business API | [GitHub](https://github.com/stewiriffin/Whatsapp-business-automation) |
+| **Mama-Fua** | Laundry service management platform | [GitHub](https://github.com/stewiriffin/Mama-Fua) |
+| **KRA Tool** | Tax compliance & KRA PIN verification | [GitHub](https://github.com/stewiriffin/Kra) |
+| **Gretsa Portal v2** | University student & staff portal | [GitHub](https://github.com/stewiriffin/Gretsa-Portal-v2) |
+
+<p align="center">
+  <a href="https://github.com/stewiriffin?tab=repositories"><strong>View all repositories →</strong></a>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stewiriffin&show_icons=true&theme=dark&bg_color=0a0a0a&border_color=1f1f1f&title_color=059669&icon_color=059669&text_color=fafafa&hide_rank=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stewiriffin&layout=compact&theme=dark&bg_color=0a0a0a&border_color=1f1f1f&title_color=059669&text_color=fafafa" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=stewiriffin&theme=dark&background=0a0a0a&border=1f1f1f&stroke=059669&ring=059669&fire=f59e0b&currStreakLabel=059669" width="60%" />
+</p>
+
+---
+
+<p align="center">
+  <i>Let's build something great together.</i><br>
+  <a href="mailto:mbaegicheha@gmail.com">mbaegicheha@gmail.com</a>
+</p>
